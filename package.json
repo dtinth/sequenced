@@ -1,0 +1,25 @@
+{
+  "name": "sequenced",
+  "version": "1.0.0",
+  "description": "Chain async functions together without syntax noise",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Thai Pangsakulyanont <org.yi.dttvb@gmail.com> (http://dt.in.th/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtinth/sequenced.git"
+  },
+  "keywords": [
+    "async",
+    "promise"
+  ],
+  "bugs": {
+    "url": "https://github.com/dtinth/sequenced/issues"
+  },
+  "homepage": "https://github.com/dtinth/sequenced#readme"
+}
